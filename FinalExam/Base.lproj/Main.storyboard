@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="5023" systemVersion="13A603" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="8YX-ce-x5E">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="5056" systemVersion="13C64" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="8YX-ce-x5E">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
     </dependencies>
     <scenes>
-        <!--class Prefix:identifier First View Controller - First-->
+        <!--Final First View Controller - First-->
         <scene sceneID="W3I-pn-N6e">
             <objects>
                 <viewController title="First" id="CZ4-MO-1fc" customClass="FinalFirstViewController" sceneMemberID="viewController">
@@ -23,12 +23,11 @@
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" userInteractionEnabled="NO" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" delaysContentTouches="NO" canCancelContentTouches="NO" minimumZoomScale="0.0" maximumZoomScale="0.0" bouncesZoom="NO" editable="NO" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="tZ3-Hv-Q7E">
+                            <textView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" userInteractionEnabled="NO" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" delaysContentTouches="NO" canCancelContentTouches="NO" minimumZoomScale="0.0" maximumZoomScale="0.0" bouncesZoom="NO" editable="NO" text="Loaded by the first view controller — an instance of FinalFirstViewController — specified in the app delegate." textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="tZ3-Hv-Q7E">
                                 <rect key="frame" x="20" y="240" width="280" height="88"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="88" id="rDj-Sg-2Zj"/>
                                 </constraints>
-                                <string key="text">Loaded by the first view controller — an instance of FinalFirstViewController — specified in the app delegate.</string>
                                 <fontDescription key="fontDescription" type="system" size="system"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textView>
@@ -47,9 +46,9 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Qh2-T1-AhA" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="653" y="-138"/>
+            <point key="canvasLocation" x="689" y="-12"/>
         </scene>
-        <!--class Prefix:identifier Second View Controller - Second-->
+        <!--Final Second View Controller - Second-->
         <scene sceneID="ot8-2e-RuS">
             <objects>
                 <viewController title="Second" id="QUy-BD-bpt" customClass="FinalSecondViewController" sceneMemberID="viewController">
@@ -68,12 +67,11 @@
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" userInteractionEnabled="NO" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" delaysContentTouches="NO" canCancelContentTouches="NO" minimumZoomScale="0.0" maximumZoomScale="0.0" bouncesZoom="NO" editable="NO" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="DcM-Fx-MKR">
+                            <textView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" userInteractionEnabled="NO" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" delaysContentTouches="NO" canCancelContentTouches="NO" minimumZoomScale="0.0" maximumZoomScale="0.0" bouncesZoom="NO" editable="NO" text="Loaded by the second view controller — an instance of FinalSecondViewController — specified in the app delegate." textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="DcM-Fx-MKR">
                                 <rect key="frame" x="20" y="240" width="280" height="88"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="88" id="9fN-Zf-E0i"/>
                                 </constraints>
-                                <string key="text">Loaded by the second view controller — an instance of FinalSecondViewController — specified in the app delegate.</string>
                                 <fontDescription key="fontDescription" type="system" size="system"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textView>
@@ -92,7 +90,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3qq-4t-Ow8" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="653" y="498"/>
+            <point key="canvasLocation" x="689" y="692"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="Vex-rW-GRa">
@@ -107,16 +105,152 @@
                     <connections>
                         <segue destination="CZ4-MO-1fc" kind="relationship" relationship="viewControllers" id="SUk-Ux-ee1"/>
                         <segue destination="QUy-BD-bpt" kind="relationship" relationship="viewControllers" id="M8t-EP-wfW"/>
+                        <segue destination="aZj-Ny-egU" kind="relationship" relationship="viewControllers" id="XXW-5G-5Am"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FNP-y4-bzi" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="132" y="180"/>
+            <point key="canvasLocation" x="-40" y="178"/>
+        </scene>
+        <!--Puzzle15 View Controller - Slider-->
+        <scene sceneID="1Ia-AE-pNY">
+            <objects>
+                <viewController id="aZj-Ny-egU" customClass="Puzzle15ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="7ne-vy-GDU"/>
+                        <viewControllerLayoutGuide type="bottom" id="4K3-TH-qdP"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="i0b-KH-GW0">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <view autoresizesSubviews="NO" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="SXM-3t-vPo">
+                                <rect key="frame" x="20" y="40" width="280" height="388"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" fixedFrame="YES" image="one.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="xRM-sp-f9y" customClass="PieceView">
+                                        <rect key="frame" x="-2" y="1" width="71" height="71"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" tag="1" contentMode="scaleToFill" fixedFrame="YES" image="two.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Y72-XZ-9GV" customClass="PieceView">
+                                        <rect key="frame" x="69" y="1" width="71" height="71"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" tag="2" contentMode="scaleToFill" fixedFrame="YES" image="three.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="mlG-ye-LRW" customClass="PieceView">
+                                        <rect key="frame" x="140" y="1" width="71" height="71"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" tag="3" contentMode="scaleToFill" fixedFrame="YES" image="four.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="rwg-UJ-Xeq" customClass="PieceView">
+                                        <rect key="frame" x="211" y="1" width="71" height="71"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" tag="7" contentMode="scaleToFill" fixedFrame="YES" image="eight.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="pAU-eI-3M6" customClass="PieceView">
+                                        <rect key="frame" x="211" y="72" width="71" height="71"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" tag="6" contentMode="scaleToFill" fixedFrame="YES" image="seven.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="X3i-B0-NQH" customClass="PieceView">
+                                        <rect key="frame" x="140" y="72" width="71" height="71"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" tag="5" contentMode="scaleToFill" fixedFrame="YES" image="six.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="auX-pn-iA8" customClass="PieceView">
+                                        <rect key="frame" x="69" y="72" width="71" height="71"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" tag="4" contentMode="scaleToFill" fixedFrame="YES" image="five.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="dsN-lv-uHV" customClass="PieceView">
+                                        <rect key="frame" x="-2" y="72" width="71" height="71"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" tag="8" contentMode="scaleToFill" fixedFrame="YES" image="nine.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="2Gq-ag-GUR" customClass="PieceView">
+                                        <rect key="frame" x="-2" y="141" width="71" height="71"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" tag="12" contentMode="scaleToFill" fixedFrame="YES" image="thirteen.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="ZGq-Uy-3yZ" customClass="PieceView">
+                                        <rect key="frame" x="-2" y="211" width="71" height="71"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" tag="9" contentMode="scaleToFill" fixedFrame="YES" image="ten.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Slp-Ps-cI5" customClass="PieceView">
+                                        <rect key="frame" x="69" y="141" width="71" height="71"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" tag="13" contentMode="scaleToFill" fixedFrame="YES" image="fourteen.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="64S-94-EGv" customClass="PieceView">
+                                        <rect key="frame" x="69" y="211" width="71" height="71"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" tag="10" contentMode="scaleToFill" fixedFrame="YES" image="eleven.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="JLg-tP-giL" customClass="PieceView">
+                                        <rect key="frame" x="140" y="141" width="71" height="71"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" tag="14" contentMode="scaleToFill" fixedFrame="YES" image="fifteen.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="UWd-eO-02G" customClass="PieceView">
+                                        <rect key="frame" x="140" y="211" width="71" height="71"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" tag="11" contentMode="scaleToFill" fixedFrame="YES" image="twelve.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="SE0-ox-KAn" customClass="PieceView">
+                                        <rect key="frame" x="211" y="141" width="71" height="71"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    </imageView>
+                                </subviews>
+                            </view>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ny1-1P-o9Q">
+                                <rect key="frame" x="123" y="375" width="75" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.63266389270000001" green="0.48483511620000003" blue="0.25306234280000001" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                <state key="normal" title="Shuffle">
+                                    <color key="titleColor" red="0.54190726899999997" green="0.0" blue="0.057263266569999999" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="shufflePieces:" destination="aZj-Ny-egU" eventType="touchUpInside" id="2I5-im-HMW"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Slider" image="fifteentabbaritem.png" id="crb-PG-IKY"/>
+                    <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="lightContent"/>
+                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
+                    <connections>
+                        <outletCollection property="pieces" destination="xRM-sp-f9y" id="q5W-fu-Vjq"/>
+                        <outletCollection property="pieces" destination="Y72-XZ-9GV" id="5Lx-np-hw9"/>
+                        <outletCollection property="pieces" destination="mlG-ye-LRW" id="gi5-B4-xs7"/>
+                        <outletCollection property="pieces" destination="rwg-UJ-Xeq" id="csy-te-bBS"/>
+                        <outletCollection property="pieces" destination="dsN-lv-uHV" id="KFU-b6-KvF"/>
+                        <outletCollection property="pieces" destination="auX-pn-iA8" id="aAY-NM-agi"/>
+                        <outletCollection property="pieces" destination="X3i-B0-NQH" id="yzi-T4-68D"/>
+                        <outletCollection property="pieces" destination="pAU-eI-3M6" id="Scv-gr-RMl"/>
+                        <outletCollection property="pieces" destination="SE0-ox-KAn" id="q2N-Tc-Dx2"/>
+                        <outletCollection property="pieces" destination="JLg-tP-giL" id="DGx-SJ-mAp"/>
+                        <outletCollection property="pieces" destination="Slp-Ps-cI5" id="1NS-Qy-TUu"/>
+                        <outletCollection property="pieces" destination="2Gq-ag-GUR" id="IlW-iT-mrU"/>
+                        <outletCollection property="pieces" destination="ZGq-Uy-3yZ" id="Ypo-wa-HfL"/>
+                        <outletCollection property="pieces" destination="64S-94-EGv" id="D23-Cc-cph"/>
+                        <outletCollection property="pieces" destination="UWd-eO-02G" id="gwh-kA-DGU"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Egm-ws-e98" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="338" y="-582"/>
         </scene>
     </scenes>
     <resources>
-        <image name="first" width="16" height="16"/>
-        <image name="second" width="16" height="16"/>
+        <image name="eight.jpg" width="52" height="52"/>
+        <image name="eleven.jpg" width="52" height="52"/>
+        <image name="fifteen.jpg" width="52" height="52"/>
+        <image name="fifteentabbaritem.png" width="40" height="40"/>
+        <image name="first" width="30" height="30"/>
+        <image name="five.jpg" width="52" height="52"/>
+        <image name="four.jpg" width="52" height="52"/>
+        <image name="fourteen.jpg" width="52" height="52"/>
+        <image name="nine.jpg" width="52" height="52"/>
+        <image name="one.jpg" width="52" height="52"/>
+        <image name="second" width="30" height="30"/>
+        <image name="seven.jpg" width="52" height="52"/>
+        <image name="six.jpg" width="52" height="52"/>
+        <image name="ten.jpg" width="52" height="52"/>
+        <image name="thirteen.jpg" width="52" height="52"/>
+        <image name="three.jpg" width="52" height="52"/>
+        <image name="twelve.jpg" width="52" height="52"/>
+        <image name="two.jpg" width="52" height="52"/>
     </resources>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
