@@ -23,30 +23,25 @@
 		9433297E191A9A0D009D67A1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9433297C191A9A0D009D67A1 /* InfoPlist.strings */; };
 		94332980191A9A0D009D67A1 /* FinalExamTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9433297F191A9A0D009D67A1 /* FinalExamTests.m */; };
 		943329B7191A9DD6009D67A1 /* fifteentabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = 943329B6191A9DD6009D67A1 /* fifteentabbaritem.png */; };
-		943329CA191A9FB6009D67A1 /* TileGameAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 943329C4191A9FB6009D67A1 /* TileGameAppDelegate.m */; };
-		943329CC191A9FB6009D67A1 /* TileGameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 943329C7191A9FB6009D67A1 /* TileGameViewController.m */; };
-		943329CD191A9FB6009D67A1 /* PieceView.m in Sources */ = {isa = PBXBuildFile; fileRef = 943329C9191A9FB6009D67A1 /* PieceView.m */; };
-		943329DF191A9FCD009D67A1 /* blank.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943329CF191A9FCD009D67A1 /* blank.jpg */; };
-		943329E0191A9FCD009D67A1 /* eight.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943329D0191A9FCD009D67A1 /* eight.jpg */; };
-		943329E1191A9FCD009D67A1 /* eleven.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943329D1191A9FCD009D67A1 /* eleven.jpg */; };
-		943329E2191A9FCD009D67A1 /* fifteen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943329D2191A9FCD009D67A1 /* fifteen.jpg */; };
-		943329E3191A9FCD009D67A1 /* five.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943329D3191A9FCD009D67A1 /* five.jpg */; };
-		943329E4191A9FCD009D67A1 /* four.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943329D4191A9FCD009D67A1 /* four.jpg */; };
-		943329E5191A9FCD009D67A1 /* fourteen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943329D5191A9FCD009D67A1 /* fourteen.jpg */; };
-		943329E6191A9FCD009D67A1 /* nine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943329D6191A9FCD009D67A1 /* nine.jpg */; };
-		943329E7191A9FCD009D67A1 /* one.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943329D7191A9FCD009D67A1 /* one.jpg */; };
-		943329E8191A9FCD009D67A1 /* seven.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943329D8191A9FCD009D67A1 /* seven.jpg */; };
-		943329E9191A9FCD009D67A1 /* six.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943329D9191A9FCD009D67A1 /* six.jpg */; };
-		943329EA191A9FCD009D67A1 /* ten.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943329DA191A9FCD009D67A1 /* ten.jpg */; };
-		943329EB191A9FCD009D67A1 /* thirteen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943329DB191A9FCD009D67A1 /* thirteen.jpg */; };
-		943329EC191A9FCD009D67A1 /* three.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943329DC191A9FCD009D67A1 /* three.jpg */; };
-		943329ED191A9FCD009D67A1 /* twelve.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943329DD191A9FCD009D67A1 /* twelve.jpg */; };
-		943329EE191A9FCD009D67A1 /* two.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943329DE191A9FCD009D67A1 /* two.jpg */; };
-		943329FA191A9FEE009D67A1 /* redframe.png in Resources */ = {isa = PBXBuildFile; fileRef = 943329F0191A9FEE009D67A1 /* redframe.png */; };
-		943329FC191A9FEE009D67A1 /* Quiz8AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 943329F3191A9FEE009D67A1 /* Quiz8AppDelegate.m */; };
-		943329FD191A9FEE009D67A1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 943329F5191A9FEE009D67A1 /* ViewController.m */; };
-		943329FE191A9FEE009D67A1 /* DrawView.m in Sources */ = {isa = PBXBuildFile; fileRef = 943329F7191A9FEE009D67A1 /* DrawView.m */; };
-		943329FF191A9FEE009D67A1 /* ObjPoint.m in Sources */ = {isa = PBXBuildFile; fileRef = 943329F9191A9FEE009D67A1 /* ObjPoint.m */; };
+		94332A3B191AA391009D67A1 /* blank.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A25191AA391009D67A1 /* blank.jpg */; };
+		94332A3C191AA391009D67A1 /* eight.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A26191AA391009D67A1 /* eight.jpg */; };
+		94332A3D191AA391009D67A1 /* eleven.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A27191AA391009D67A1 /* eleven.jpg */; };
+		94332A3E191AA391009D67A1 /* fifteen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A28191AA391009D67A1 /* fifteen.jpg */; };
+		94332A3F191AA391009D67A1 /* five.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A29191AA391009D67A1 /* five.jpg */; };
+		94332A40191AA391009D67A1 /* four.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A2A191AA391009D67A1 /* four.jpg */; };
+		94332A41191AA391009D67A1 /* fourteen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A2B191AA391009D67A1 /* fourteen.jpg */; };
+		94332A42191AA391009D67A1 /* nine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A2C191AA391009D67A1 /* nine.jpg */; };
+		94332A43191AA391009D67A1 /* one.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A2D191AA391009D67A1 /* one.jpg */; };
+		94332A44191AA391009D67A1 /* seven.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A2E191AA391009D67A1 /* seven.jpg */; };
+		94332A45191AA391009D67A1 /* six.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A2F191AA391009D67A1 /* six.jpg */; };
+		94332A46191AA391009D67A1 /* ten.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A30191AA391009D67A1 /* ten.jpg */; };
+		94332A47191AA391009D67A1 /* thirteen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A31191AA391009D67A1 /* thirteen.jpg */; };
+		94332A48191AA391009D67A1 /* three.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A32191AA391009D67A1 /* three.jpg */; };
+		94332A49191AA391009D67A1 /* twelve.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A33191AA391009D67A1 /* twelve.jpg */; };
+		94332A4A191AA391009D67A1 /* two.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A34191AA391009D67A1 /* two.jpg */; };
+		94332A4B191AA391009D67A1 /* PieceView.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A36191AA391009D67A1 /* PieceView.m */; };
+		94332A4C191AA391009D67A1 /* TileGameAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A38191AA391009D67A1 /* TileGameAppDelegate.m */; };
+		94332A4D191AA391009D67A1 /* TileGameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A3A191AA391009D67A1 /* TileGameViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -82,37 +77,28 @@
 		9433297D191A9A0D009D67A1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9433297F191A9A0D009D67A1 /* FinalExamTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FinalExamTests.m; sourceTree = "<group>"; };
 		943329B6191A9DD6009D67A1 /* fifteentabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fifteentabbaritem.png; path = "../../../../Downloads/Final Exam/Final Exam/fifteentabbaritem.png"; sourceTree = "<group>"; };
-		943329C3191A9FB6009D67A1 /* TileGameAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TileGameAppDelegate.h; path = ../../../Dropbox/School/TileGame/TileGame/TileGameAppDelegate.h; sourceTree = "<group>"; };
-		943329C4191A9FB6009D67A1 /* TileGameAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TileGameAppDelegate.m; path = ../../../Dropbox/School/TileGame/TileGame/TileGameAppDelegate.m; sourceTree = "<group>"; };
-		943329C6191A9FB6009D67A1 /* TileGameViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TileGameViewController.h; path = ../../../Dropbox/School/TileGame/TileGame/TileGameViewController.h; sourceTree = "<group>"; };
-		943329C7191A9FB6009D67A1 /* TileGameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TileGameViewController.m; path = ../../../Dropbox/School/TileGame/TileGame/TileGameViewController.m; sourceTree = "<group>"; };
-		943329C8191A9FB6009D67A1 /* PieceView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PieceView.h; path = ../../../Dropbox/School/TileGame/TileGame/PieceView.h; sourceTree = "<group>"; };
-		943329C9191A9FB6009D67A1 /* PieceView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PieceView.m; path = ../../../Dropbox/School/TileGame/TileGame/PieceView.m; sourceTree = "<group>"; };
-		943329CF191A9FCD009D67A1 /* blank.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blank.jpg; sourceTree = "<group>"; };
-		943329D0191A9FCD009D67A1 /* eight.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eight.jpg; sourceTree = "<group>"; };
-		943329D1191A9FCD009D67A1 /* eleven.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eleven.jpg; sourceTree = "<group>"; };
-		943329D2191A9FCD009D67A1 /* fifteen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fifteen.jpg; sourceTree = "<group>"; };
-		943329D3191A9FCD009D67A1 /* five.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = five.jpg; sourceTree = "<group>"; };
-		943329D4191A9FCD009D67A1 /* four.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = four.jpg; sourceTree = "<group>"; };
-		943329D5191A9FCD009D67A1 /* fourteen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fourteen.jpg; sourceTree = "<group>"; };
-		943329D6191A9FCD009D67A1 /* nine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nine.jpg; sourceTree = "<group>"; };
-		943329D7191A9FCD009D67A1 /* one.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = one.jpg; sourceTree = "<group>"; };
-		943329D8191A9FCD009D67A1 /* seven.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = seven.jpg; sourceTree = "<group>"; };
-		943329D9191A9FCD009D67A1 /* six.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = six.jpg; sourceTree = "<group>"; };
-		943329DA191A9FCD009D67A1 /* ten.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ten.jpg; sourceTree = "<group>"; };
-		943329DB191A9FCD009D67A1 /* thirteen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thirteen.jpg; sourceTree = "<group>"; };
-		943329DC191A9FCD009D67A1 /* three.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = three.jpg; sourceTree = "<group>"; };
-		943329DD191A9FCD009D67A1 /* twelve.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twelve.jpg; sourceTree = "<group>"; };
-		943329DE191A9FCD009D67A1 /* two.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = two.jpg; sourceTree = "<group>"; };
-		943329F0191A9FEE009D67A1 /* redframe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redframe.png; sourceTree = "<group>"; };
-		943329F2191A9FEE009D67A1 /* Quiz8AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Quiz8AppDelegate.h; sourceTree = "<group>"; };
-		943329F3191A9FEE009D67A1 /* Quiz8AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Quiz8AppDelegate.m; sourceTree = "<group>"; };
-		943329F4191A9FEE009D67A1 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		943329F5191A9FEE009D67A1 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		943329F6191A9FEE009D67A1 /* DrawView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawView.h; sourceTree = "<group>"; };
-		943329F7191A9FEE009D67A1 /* DrawView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawView.m; sourceTree = "<group>"; };
-		943329F8191A9FEE009D67A1 /* ObjPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ObjPoint.h; sourceTree = "<group>"; };
-		943329F9191A9FEE009D67A1 /* ObjPoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ObjPoint.m; sourceTree = "<group>"; };
+		94332A25191AA391009D67A1 /* blank.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blank.jpg; sourceTree = "<group>"; };
+		94332A26191AA391009D67A1 /* eight.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eight.jpg; sourceTree = "<group>"; };
+		94332A27191AA391009D67A1 /* eleven.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eleven.jpg; sourceTree = "<group>"; };
+		94332A28191AA391009D67A1 /* fifteen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fifteen.jpg; sourceTree = "<group>"; };
+		94332A29191AA391009D67A1 /* five.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = five.jpg; sourceTree = "<group>"; };
+		94332A2A191AA391009D67A1 /* four.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = four.jpg; sourceTree = "<group>"; };
+		94332A2B191AA391009D67A1 /* fourteen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fourteen.jpg; sourceTree = "<group>"; };
+		94332A2C191AA391009D67A1 /* nine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nine.jpg; sourceTree = "<group>"; };
+		94332A2D191AA391009D67A1 /* one.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = one.jpg; sourceTree = "<group>"; };
+		94332A2E191AA391009D67A1 /* seven.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = seven.jpg; sourceTree = "<group>"; };
+		94332A2F191AA391009D67A1 /* six.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = six.jpg; sourceTree = "<group>"; };
+		94332A30191AA391009D67A1 /* ten.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ten.jpg; sourceTree = "<group>"; };
+		94332A31191AA391009D67A1 /* thirteen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thirteen.jpg; sourceTree = "<group>"; };
+		94332A32191AA391009D67A1 /* three.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = three.jpg; sourceTree = "<group>"; };
+		94332A33191AA391009D67A1 /* twelve.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twelve.jpg; sourceTree = "<group>"; };
+		94332A34191AA391009D67A1 /* two.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = two.jpg; sourceTree = "<group>"; };
+		94332A35191AA391009D67A1 /* PieceView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PieceView.h; sourceTree = "<group>"; };
+		94332A36191AA391009D67A1 /* PieceView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PieceView.m; sourceTree = "<group>"; };
+		94332A37191AA391009D67A1 /* TileGameAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TileGameAppDelegate.h; sourceTree = "<group>"; };
+		94332A38191AA391009D67A1 /* TileGameAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TileGameAppDelegate.m; sourceTree = "<group>"; };
+		94332A39191AA391009D67A1 /* TileGameViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TileGameViewController.h; sourceTree = "<group>"; };
+		94332A3A191AA391009D67A1 /* TileGameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TileGameViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -172,6 +158,7 @@
 		94332957191A9A0D009D67A1 /* FinalExam */ = {
 			isa = PBXGroup;
 			children = (
+				94332A23191AA391009D67A1 /* TileGame */,
 				94332960191A9A0D009D67A1 /* FinalAppDelegate.h */,
 				94332961191A9A0D009D67A1 /* FinalAppDelegate.m */,
 				94332963191A9A0D009D67A1 /* Main.storyboard */,
@@ -181,8 +168,6 @@
 				9433296A191A9A0D009D67A1 /* FinalSecondViewController.m */,
 				943329B6191A9DD6009D67A1 /* fifteentabbaritem.png */,
 				9433296C191A9A0D009D67A1 /* Images.xcassets */,
-				943329EF191A9FD9009D67A1 /* EtchASketch */,
-				943329B5191A9B6F009D67A1 /* TileGame */,
 				94332958191A9A0D009D67A1 /* Supporting Files */,
 			);
 			path = FinalExam;
@@ -217,60 +202,41 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		943329B5191A9B6F009D67A1 /* TileGame */ = {
+		94332A23191AA391009D67A1 /* TileGame */ = {
 			isa = PBXGroup;
 			children = (
-				943329CE191A9FCD009D67A1 /* images */,
-				943329C3191A9FB6009D67A1 /* TileGameAppDelegate.h */,
-				943329C4191A9FB6009D67A1 /* TileGameAppDelegate.m */,
-				943329C6191A9FB6009D67A1 /* TileGameViewController.h */,
-				943329C7191A9FB6009D67A1 /* TileGameViewController.m */,
-				943329C8191A9FB6009D67A1 /* PieceView.h */,
-				943329C9191A9FB6009D67A1 /* PieceView.m */,
+				94332A24191AA391009D67A1 /* images */,
+				94332A35191AA391009D67A1 /* PieceView.h */,
+				94332A36191AA391009D67A1 /* PieceView.m */,
+				94332A37191AA391009D67A1 /* TileGameAppDelegate.h */,
+				94332A38191AA391009D67A1 /* TileGameAppDelegate.m */,
+				94332A39191AA391009D67A1 /* TileGameViewController.h */,
+				94332A3A191AA391009D67A1 /* TileGameViewController.m */,
 			);
-			name = TileGame;
-			path = "../../../../Downloads/Final Exam/untitled folder";
+			path = TileGame;
 			sourceTree = "<group>";
 		};
-		943329CE191A9FCD009D67A1 /* images */ = {
+		94332A24191AA391009D67A1 /* images */ = {
 			isa = PBXGroup;
 			children = (
-				943329CF191A9FCD009D67A1 /* blank.jpg */,
-				943329D0191A9FCD009D67A1 /* eight.jpg */,
-				943329D1191A9FCD009D67A1 /* eleven.jpg */,
-				943329D2191A9FCD009D67A1 /* fifteen.jpg */,
-				943329D3191A9FCD009D67A1 /* five.jpg */,
-				943329D4191A9FCD009D67A1 /* four.jpg */,
-				943329D5191A9FCD009D67A1 /* fourteen.jpg */,
-				943329D6191A9FCD009D67A1 /* nine.jpg */,
-				943329D7191A9FCD009D67A1 /* one.jpg */,
-				943329D8191A9FCD009D67A1 /* seven.jpg */,
-				943329D9191A9FCD009D67A1 /* six.jpg */,
-				943329DA191A9FCD009D67A1 /* ten.jpg */,
-				943329DB191A9FCD009D67A1 /* thirteen.jpg */,
-				943329DC191A9FCD009D67A1 /* three.jpg */,
-				943329DD191A9FCD009D67A1 /* twelve.jpg */,
-				943329DE191A9FCD009D67A1 /* two.jpg */,
+				94332A25191AA391009D67A1 /* blank.jpg */,
+				94332A26191AA391009D67A1 /* eight.jpg */,
+				94332A27191AA391009D67A1 /* eleven.jpg */,
+				94332A28191AA391009D67A1 /* fifteen.jpg */,
+				94332A29191AA391009D67A1 /* five.jpg */,
+				94332A2A191AA391009D67A1 /* four.jpg */,
+				94332A2B191AA391009D67A1 /* fourteen.jpg */,
+				94332A2C191AA391009D67A1 /* nine.jpg */,
+				94332A2D191AA391009D67A1 /* one.jpg */,
+				94332A2E191AA391009D67A1 /* seven.jpg */,
+				94332A2F191AA391009D67A1 /* six.jpg */,
+				94332A30191AA391009D67A1 /* ten.jpg */,
+				94332A31191AA391009D67A1 /* thirteen.jpg */,
+				94332A32191AA391009D67A1 /* three.jpg */,
+				94332A33191AA391009D67A1 /* twelve.jpg */,
+				94332A34191AA391009D67A1 /* two.jpg */,
 			);
-			name = images;
-			path = ../../../Dropbox/School/TileGame/TileGame/images;
-			sourceTree = "<group>";
-		};
-		943329EF191A9FD9009D67A1 /* EtchASketch */ = {
-			isa = PBXGroup;
-			children = (
-				943329F0191A9FEE009D67A1 /* redframe.png */,
-				943329F2191A9FEE009D67A1 /* Quiz8AppDelegate.h */,
-				943329F3191A9FEE009D67A1 /* Quiz8AppDelegate.m */,
-				943329F4191A9FEE009D67A1 /* ViewController.h */,
-				943329F5191A9FEE009D67A1 /* ViewController.m */,
-				943329F6191A9FEE009D67A1 /* DrawView.h */,
-				943329F7191A9FEE009D67A1 /* DrawView.m */,
-				943329F8191A9FEE009D67A1 /* ObjPoint.h */,
-				943329F9191A9FEE009D67A1 /* ObjPoint.m */,
-			);
-			name = EtchASketch;
-			path = "../../../../Desktop/untitled folder 3";
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -350,27 +316,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				943329EE191A9FCD009D67A1 /* two.jpg in Resources */,
-				943329ED191A9FCD009D67A1 /* twelve.jpg in Resources */,
-				943329EB191A9FCD009D67A1 /* thirteen.jpg in Resources */,
-				943329E1191A9FCD009D67A1 /* eleven.jpg in Resources */,
-				943329E3191A9FCD009D67A1 /* five.jpg in Resources */,
-				943329EC191A9FCD009D67A1 /* three.jpg in Resources */,
 				9433296D191A9A0D009D67A1 /* Images.xcassets in Resources */,
-				943329E8191A9FCD009D67A1 /* seven.jpg in Resources */,
-				943329E4191A9FCD009D67A1 /* four.jpg in Resources */,
-				943329E6191A9FCD009D67A1 /* nine.jpg in Resources */,
-				943329E0191A9FCD009D67A1 /* eight.jpg in Resources */,
-				943329DF191A9FCD009D67A1 /* blank.jpg in Resources */,
-				943329E2191A9FCD009D67A1 /* fifteen.jpg in Resources */,
-				943329E9191A9FCD009D67A1 /* six.jpg in Resources */,
+				94332A42191AA391009D67A1 /* nine.jpg in Resources */,
+				94332A43191AA391009D67A1 /* one.jpg in Resources */,
+				94332A47191AA391009D67A1 /* thirteen.jpg in Resources */,
+				94332A41191AA391009D67A1 /* fourteen.jpg in Resources */,
+				94332A40191AA391009D67A1 /* four.jpg in Resources */,
+				94332A3D191AA391009D67A1 /* eleven.jpg in Resources */,
+				94332A45191AA391009D67A1 /* six.jpg in Resources */,
+				94332A4A191AA391009D67A1 /* two.jpg in Resources */,
+				94332A48191AA391009D67A1 /* three.jpg in Resources */,
 				9433295C191A9A0D009D67A1 /* InfoPlist.strings in Resources */,
+				94332A49191AA391009D67A1 /* twelve.jpg in Resources */,
+				94332A44191AA391009D67A1 /* seven.jpg in Resources */,
+				94332A3E191AA391009D67A1 /* fifteen.jpg in Resources */,
+				94332A3F191AA391009D67A1 /* five.jpg in Resources */,
 				943329B7191A9DD6009D67A1 /* fifteentabbaritem.png in Resources */,
 				94332965191A9A0D009D67A1 /* Main.storyboard in Resources */,
-				943329E7191A9FCD009D67A1 /* one.jpg in Resources */,
-				943329EA191A9FCD009D67A1 /* ten.jpg in Resources */,
-				943329E5191A9FCD009D67A1 /* fourteen.jpg in Resources */,
-				943329FA191A9FEE009D67A1 /* redframe.png in Resources */,
+				94332A46191AA391009D67A1 /* ten.jpg in Resources */,
+				94332A3B191AA391009D67A1 /* blank.jpg in Resources */,
+				94332A3C191AA391009D67A1 /* eight.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -389,17 +354,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				943329FD191A9FEE009D67A1 /* ViewController.m in Sources */,
-				943329FF191A9FEE009D67A1 /* ObjPoint.m in Sources */,
+				94332A4D191AA391009D67A1 /* TileGameViewController.m in Sources */,
 				9433295E191A9A0D009D67A1 /* main.m in Sources */,
-				943329CA191A9FB6009D67A1 /* TileGameAppDelegate.m in Sources */,
-				943329FC191A9FEE009D67A1 /* Quiz8AppDelegate.m in Sources */,
-				943329FE191A9FEE009D67A1 /* DrawView.m in Sources */,
 				94332968191A9A0D009D67A1 /* FinalFirstViewController.m in Sources */,
-				943329CD191A9FB6009D67A1 /* PieceView.m in Sources */,
 				94332962191A9A0D009D67A1 /* FinalAppDelegate.m in Sources */,
-				943329CC191A9FB6009D67A1 /* TileGameViewController.m in Sources */,
 				9433296B191A9A0D009D67A1 /* FinalSecondViewController.m in Sources */,
+				94332A4C191AA391009D67A1 /* TileGameAppDelegate.m in Sources */,
+				94332A4B191AA391009D67A1 /* PieceView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -604,6 +565,7 @@
 				94332985191A9A0D009D67A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		94332986191A9A0D009D67A1 /* Build configuration list for PBXNativeTarget "FinalExamTests" */ = {
 			isa = XCConfigurationList;
@@ -612,6 +574,7 @@
 				94332988191A9A0D009D67A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
