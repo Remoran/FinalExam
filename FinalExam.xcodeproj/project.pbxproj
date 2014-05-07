@@ -14,15 +14,12 @@
 		9433295E191A9A0D009D67A1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9433295D191A9A0D009D67A1 /* main.m */; };
 		94332962191A9A0D009D67A1 /* FinalAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332961191A9A0D009D67A1 /* FinalAppDelegate.m */; };
 		94332965191A9A0D009D67A1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94332963191A9A0D009D67A1 /* Main.storyboard */; };
-		94332968191A9A0D009D67A1 /* FinalFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332967191A9A0D009D67A1 /* FinalFirstViewController.m */; };
-		9433296B191A9A0D009D67A1 /* FinalSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9433296A191A9A0D009D67A1 /* FinalSecondViewController.m */; };
 		9433296D191A9A0D009D67A1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9433296C191A9A0D009D67A1 /* Images.xcassets */; };
 		94332974191A9A0D009D67A1 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94332973191A9A0D009D67A1 /* XCTest.framework */; };
 		94332975191A9A0D009D67A1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94332951191A9A0D009D67A1 /* Foundation.framework */; };
 		94332976191A9A0D009D67A1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94332955191A9A0D009D67A1 /* UIKit.framework */; };
 		9433297E191A9A0D009D67A1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9433297C191A9A0D009D67A1 /* InfoPlist.strings */; };
 		94332980191A9A0D009D67A1 /* FinalExamTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9433297F191A9A0D009D67A1 /* FinalExamTests.m */; };
-		943329B7191A9DD6009D67A1 /* fifteentabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = 943329B6191A9DD6009D67A1 /* fifteentabbaritem.png */; };
 		94332A3B191AA391009D67A1 /* blank.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A25191AA391009D67A1 /* blank.jpg */; };
 		94332A3C191AA391009D67A1 /* eight.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A26191AA391009D67A1 /* eight.jpg */; };
 		94332A3D191AA391009D67A1 /* eleven.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94332A27191AA391009D67A1 /* eleven.jpg */; };
@@ -42,6 +39,29 @@
 		94332A4B191AA391009D67A1 /* PieceView.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A36191AA391009D67A1 /* PieceView.m */; };
 		94332A4C191AA391009D67A1 /* TileGameAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A38191AA391009D67A1 /* TileGameAppDelegate.m */; };
 		94332A4D191AA391009D67A1 /* TileGameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A3A191AA391009D67A1 /* TileGameViewController.m */; };
+		94332A54191AA502009D67A1 /* cardtabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = 94332A4F191AA502009D67A1 /* cardtabbaritem.png */; };
+		94332A55191AA502009D67A1 /* etchtabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = 94332A50191AA502009D67A1 /* etchtabbaritem.png */; };
+		94332A56191AA502009D67A1 /* fifteentabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = 94332A51191AA502009D67A1 /* fifteentabbaritem.png */; };
+		94332A57191AA502009D67A1 /* spirotabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = 94332A52191AA502009D67A1 /* spirotabbaritem.png */; };
+		94332A58191AA502009D67A1 /* tabbaritem1.png in Resources */ = {isa = PBXBuildFile; fileRef = 94332A53191AA502009D67A1 /* tabbaritem1.png */; };
+		94332A61191AA5BB009D67A1 /* DrawView.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A5B191AA5BB009D67A1 /* DrawView.m */; };
+		94332A62191AA5BB009D67A1 /* Quiz8AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A5D191AA5BB009D67A1 /* Quiz8AppDelegate.m */; };
+		94332A64191AA5BB009D67A1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A60191AA5BB009D67A1 /* ViewController.m */; };
+		94332A66191AA6C1009D67A1 /* redframer.png in Resources */ = {isa = PBXBuildFile; fileRef = 94332A65191AA6C1009D67A1 /* redframer.png */; };
+		94332A69191AA7BC009D67A1 /* ObjPoint.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A68191AA7BC009D67A1 /* ObjPoint.m */; };
+		94332A73191AAC0E009D67A1 /* HarmonigraphView.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A6C191AAC0E009D67A1 /* HarmonigraphView.m */; };
+		94332A74191AAC0E009D67A1 /* SpirographAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A6E191AAC0E009D67A1 /* SpirographAppDelegate.m */; };
+		94332A75191AAC0E009D67A1 /* SpirographView.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A70191AAC0E009D67A1 /* SpirographView.m */; };
+		94332A76191AAC0E009D67A1 /* SpirographViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A72191AAC0E009D67A1 /* SpirographViewController.m */; };
+		94332A88191ABF18009D67A1 /* Card.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A79191ABF18009D67A1 /* Card.m */; };
+		94332A89191ABF18009D67A1 /* CardMatchingGame.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A7B191ABF18009D67A1 /* CardMatchingGame.m */; };
+		94332A8A191ABF18009D67A1 /* Deck.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A7D191ABF18009D67A1 /* Deck.m */; };
+		94332A8B191ABF18009D67A1 /* muhback.png in Resources */ = {isa = PBXBuildFile; fileRef = 94332A7E191ABF18009D67A1 /* muhback.png */; };
+		94332A8C191ABF18009D67A1 /* muhfront.png in Resources */ = {isa = PBXBuildFile; fileRef = 94332A7F191ABF18009D67A1 /* muhfront.png */; };
+		94332A8D191ABF18009D67A1 /* PlayingCard.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A81191ABF18009D67A1 /* PlayingCard.m */; };
+		94332A8E191ABF18009D67A1 /* PlayingCardDeck.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A83191ABF18009D67A1 /* PlayingCardDeck.m */; };
+		94332A8F191ABF18009D67A1 /* Test1bAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A85191ABF18009D67A1 /* Test1bAppDelegate.m */; };
+		94332A90191ABF18009D67A1 /* Test1bViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94332A87191ABF18009D67A1 /* Test1bViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,17 +86,12 @@
 		94332960191A9A0D009D67A1 /* FinalAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FinalAppDelegate.h; sourceTree = "<group>"; };
 		94332961191A9A0D009D67A1 /* FinalAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FinalAppDelegate.m; sourceTree = "<group>"; };
 		94332964191A9A0D009D67A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		94332966191A9A0D009D67A1 /* FinalFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FinalFirstViewController.h; sourceTree = "<group>"; };
-		94332967191A9A0D009D67A1 /* FinalFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FinalFirstViewController.m; sourceTree = "<group>"; };
-		94332969191A9A0D009D67A1 /* FinalSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FinalSecondViewController.h; sourceTree = "<group>"; };
-		9433296A191A9A0D009D67A1 /* FinalSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FinalSecondViewController.m; sourceTree = "<group>"; };
 		9433296C191A9A0D009D67A1 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		94332972191A9A0D009D67A1 /* FinalExamTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FinalExamTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		94332973191A9A0D009D67A1 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		9433297B191A9A0D009D67A1 /* FinalExamTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FinalExamTests-Info.plist"; sourceTree = "<group>"; };
 		9433297D191A9A0D009D67A1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9433297F191A9A0D009D67A1 /* FinalExamTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FinalExamTests.m; sourceTree = "<group>"; };
-		943329B6191A9DD6009D67A1 /* fifteentabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fifteentabbaritem.png; path = "../../../../Downloads/Final Exam/Final Exam/fifteentabbaritem.png"; sourceTree = "<group>"; };
 		94332A25191AA391009D67A1 /* blank.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blank.jpg; sourceTree = "<group>"; };
 		94332A26191AA391009D67A1 /* eight.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eight.jpg; sourceTree = "<group>"; };
 		94332A27191AA391009D67A1 /* eleven.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eleven.jpg; sourceTree = "<group>"; };
@@ -99,6 +114,44 @@
 		94332A38191AA391009D67A1 /* TileGameAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TileGameAppDelegate.m; sourceTree = "<group>"; };
 		94332A39191AA391009D67A1 /* TileGameViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TileGameViewController.h; sourceTree = "<group>"; };
 		94332A3A191AA391009D67A1 /* TileGameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TileGameViewController.m; sourceTree = "<group>"; };
+		94332A4F191AA502009D67A1 /* cardtabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cardtabbaritem.png; sourceTree = "<group>"; };
+		94332A50191AA502009D67A1 /* etchtabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = etchtabbaritem.png; sourceTree = "<group>"; };
+		94332A51191AA502009D67A1 /* fifteentabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fifteentabbaritem.png; sourceTree = "<group>"; };
+		94332A52191AA502009D67A1 /* spirotabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spirotabbaritem.png; sourceTree = "<group>"; };
+		94332A53191AA502009D67A1 /* tabbaritem1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tabbaritem1.png; sourceTree = "<group>"; };
+		94332A5A191AA5BB009D67A1 /* DrawView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawView.h; sourceTree = "<group>"; };
+		94332A5B191AA5BB009D67A1 /* DrawView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawView.m; sourceTree = "<group>"; };
+		94332A5C191AA5BB009D67A1 /* Quiz8AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Quiz8AppDelegate.h; sourceTree = "<group>"; };
+		94332A5D191AA5BB009D67A1 /* Quiz8AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Quiz8AppDelegate.m; sourceTree = "<group>"; };
+		94332A5F191AA5BB009D67A1 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		94332A60191AA5BB009D67A1 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		94332A65191AA6C1009D67A1 /* redframer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redframer.png; sourceTree = "<group>"; };
+		94332A67191AA7BC009D67A1 /* ObjPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ObjPoint.h; sourceTree = "<group>"; };
+		94332A68191AA7BC009D67A1 /* ObjPoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ObjPoint.m; sourceTree = "<group>"; };
+		94332A6B191AAC0E009D67A1 /* HarmonigraphView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HarmonigraphView.h; sourceTree = "<group>"; };
+		94332A6C191AAC0E009D67A1 /* HarmonigraphView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HarmonigraphView.m; sourceTree = "<group>"; };
+		94332A6D191AAC0E009D67A1 /* SpirographAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpirographAppDelegate.h; sourceTree = "<group>"; };
+		94332A6E191AAC0E009D67A1 /* SpirographAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpirographAppDelegate.m; sourceTree = "<group>"; };
+		94332A6F191AAC0E009D67A1 /* SpirographView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpirographView.h; sourceTree = "<group>"; };
+		94332A70191AAC0E009D67A1 /* SpirographView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpirographView.m; sourceTree = "<group>"; };
+		94332A71191AAC0E009D67A1 /* SpirographViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpirographViewController.h; sourceTree = "<group>"; };
+		94332A72191AAC0E009D67A1 /* SpirographViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpirographViewController.m; sourceTree = "<group>"; };
+		94332A78191ABF18009D67A1 /* Card.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Card.h; sourceTree = "<group>"; };
+		94332A79191ABF18009D67A1 /* Card.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Card.m; sourceTree = "<group>"; };
+		94332A7A191ABF18009D67A1 /* CardMatchingGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CardMatchingGame.h; sourceTree = "<group>"; };
+		94332A7B191ABF18009D67A1 /* CardMatchingGame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CardMatchingGame.m; sourceTree = "<group>"; };
+		94332A7C191ABF18009D67A1 /* Deck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Deck.h; sourceTree = "<group>"; };
+		94332A7D191ABF18009D67A1 /* Deck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Deck.m; sourceTree = "<group>"; };
+		94332A7E191ABF18009D67A1 /* muhback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = muhback.png; sourceTree = "<group>"; };
+		94332A7F191ABF18009D67A1 /* muhfront.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = muhfront.png; sourceTree = "<group>"; };
+		94332A80191ABF18009D67A1 /* PlayingCard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayingCard.h; sourceTree = "<group>"; };
+		94332A81191ABF18009D67A1 /* PlayingCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayingCard.m; sourceTree = "<group>"; };
+		94332A82191ABF18009D67A1 /* PlayingCardDeck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayingCardDeck.h; sourceTree = "<group>"; };
+		94332A83191ABF18009D67A1 /* PlayingCardDeck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayingCardDeck.m; sourceTree = "<group>"; };
+		94332A84191ABF18009D67A1 /* Test1bAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test1bAppDelegate.h; sourceTree = "<group>"; };
+		94332A85191ABF18009D67A1 /* Test1bAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test1bAppDelegate.m; sourceTree = "<group>"; };
+		94332A86191ABF18009D67A1 /* Test1bViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test1bViewController.h; sourceTree = "<group>"; };
+		94332A87191ABF18009D67A1 /* Test1bViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test1bViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,15 +211,14 @@
 		94332957191A9A0D009D67A1 /* FinalExam */ = {
 			isa = PBXGroup;
 			children = (
+				94332A4E191AA502009D67A1 /* TabBarImages */,
 				94332A23191AA391009D67A1 /* TileGame */,
+				94332A59191AA5BB009D67A1 /* EtchASketch */,
+				94332A6A191AAC0E009D67A1 /* Spirograph */,
+				94332A77191ABF18009D67A1 /* CardGame */,
 				94332960191A9A0D009D67A1 /* FinalAppDelegate.h */,
 				94332961191A9A0D009D67A1 /* FinalAppDelegate.m */,
 				94332963191A9A0D009D67A1 /* Main.storyboard */,
-				94332966191A9A0D009D67A1 /* FinalFirstViewController.h */,
-				94332967191A9A0D009D67A1 /* FinalFirstViewController.m */,
-				94332969191A9A0D009D67A1 /* FinalSecondViewController.h */,
-				9433296A191A9A0D009D67A1 /* FinalSecondViewController.m */,
-				943329B6191A9DD6009D67A1 /* fifteentabbaritem.png */,
 				9433296C191A9A0D009D67A1 /* Images.xcassets */,
 				94332958191A9A0D009D67A1 /* Supporting Files */,
 			);
@@ -237,6 +289,72 @@
 				94332A34191AA391009D67A1 /* two.jpg */,
 			);
 			path = images;
+			sourceTree = "<group>";
+		};
+		94332A4E191AA502009D67A1 /* TabBarImages */ = {
+			isa = PBXGroup;
+			children = (
+				94332A4F191AA502009D67A1 /* cardtabbaritem.png */,
+				94332A50191AA502009D67A1 /* etchtabbaritem.png */,
+				94332A51191AA502009D67A1 /* fifteentabbaritem.png */,
+				94332A52191AA502009D67A1 /* spirotabbaritem.png */,
+				94332A53191AA502009D67A1 /* tabbaritem1.png */,
+			);
+			path = TabBarImages;
+			sourceTree = "<group>";
+		};
+		94332A59191AA5BB009D67A1 /* EtchASketch */ = {
+			isa = PBXGroup;
+			children = (
+				94332A67191AA7BC009D67A1 /* ObjPoint.h */,
+				94332A68191AA7BC009D67A1 /* ObjPoint.m */,
+				94332A5A191AA5BB009D67A1 /* DrawView.h */,
+				94332A5B191AA5BB009D67A1 /* DrawView.m */,
+				94332A5C191AA5BB009D67A1 /* Quiz8AppDelegate.h */,
+				94332A5D191AA5BB009D67A1 /* Quiz8AppDelegate.m */,
+				94332A65191AA6C1009D67A1 /* redframer.png */,
+				94332A5F191AA5BB009D67A1 /* ViewController.h */,
+				94332A60191AA5BB009D67A1 /* ViewController.m */,
+			);
+			path = EtchASketch;
+			sourceTree = "<group>";
+		};
+		94332A6A191AAC0E009D67A1 /* Spirograph */ = {
+			isa = PBXGroup;
+			children = (
+				94332A6B191AAC0E009D67A1 /* HarmonigraphView.h */,
+				94332A6C191AAC0E009D67A1 /* HarmonigraphView.m */,
+				94332A6D191AAC0E009D67A1 /* SpirographAppDelegate.h */,
+				94332A6E191AAC0E009D67A1 /* SpirographAppDelegate.m */,
+				94332A6F191AAC0E009D67A1 /* SpirographView.h */,
+				94332A70191AAC0E009D67A1 /* SpirographView.m */,
+				94332A71191AAC0E009D67A1 /* SpirographViewController.h */,
+				94332A72191AAC0E009D67A1 /* SpirographViewController.m */,
+			);
+			path = Spirograph;
+			sourceTree = "<group>";
+		};
+		94332A77191ABF18009D67A1 /* CardGame */ = {
+			isa = PBXGroup;
+			children = (
+				94332A78191ABF18009D67A1 /* Card.h */,
+				94332A79191ABF18009D67A1 /* Card.m */,
+				94332A7A191ABF18009D67A1 /* CardMatchingGame.h */,
+				94332A7B191ABF18009D67A1 /* CardMatchingGame.m */,
+				94332A7C191ABF18009D67A1 /* Deck.h */,
+				94332A7D191ABF18009D67A1 /* Deck.m */,
+				94332A7E191ABF18009D67A1 /* muhback.png */,
+				94332A7F191ABF18009D67A1 /* muhfront.png */,
+				94332A80191ABF18009D67A1 /* PlayingCard.h */,
+				94332A81191ABF18009D67A1 /* PlayingCard.m */,
+				94332A82191ABF18009D67A1 /* PlayingCardDeck.h */,
+				94332A83191ABF18009D67A1 /* PlayingCardDeck.m */,
+				94332A84191ABF18009D67A1 /* Test1bAppDelegate.h */,
+				94332A85191ABF18009D67A1 /* Test1bAppDelegate.m */,
+				94332A86191ABF18009D67A1 /* Test1bViewController.h */,
+				94332A87191ABF18009D67A1 /* Test1bViewController.m */,
+			);
+			path = CardGame;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -322,20 +440,27 @@
 				94332A47191AA391009D67A1 /* thirteen.jpg in Resources */,
 				94332A41191AA391009D67A1 /* fourteen.jpg in Resources */,
 				94332A40191AA391009D67A1 /* four.jpg in Resources */,
+				94332A58191AA502009D67A1 /* tabbaritem1.png in Resources */,
 				94332A3D191AA391009D67A1 /* eleven.jpg in Resources */,
+				94332A8C191ABF18009D67A1 /* muhfront.png in Resources */,
 				94332A45191AA391009D67A1 /* six.jpg in Resources */,
 				94332A4A191AA391009D67A1 /* two.jpg in Resources */,
 				94332A48191AA391009D67A1 /* three.jpg in Resources */,
 				9433295C191A9A0D009D67A1 /* InfoPlist.strings in Resources */,
 				94332A49191AA391009D67A1 /* twelve.jpg in Resources */,
 				94332A44191AA391009D67A1 /* seven.jpg in Resources */,
+				94332A66191AA6C1009D67A1 /* redframer.png in Resources */,
 				94332A3E191AA391009D67A1 /* fifteen.jpg in Resources */,
+				94332A56191AA502009D67A1 /* fifteentabbaritem.png in Resources */,
 				94332A3F191AA391009D67A1 /* five.jpg in Resources */,
-				943329B7191A9DD6009D67A1 /* fifteentabbaritem.png in Resources */,
 				94332965191A9A0D009D67A1 /* Main.storyboard in Resources */,
+				94332A55191AA502009D67A1 /* etchtabbaritem.png in Resources */,
 				94332A46191AA391009D67A1 /* ten.jpg in Resources */,
+				94332A8B191ABF18009D67A1 /* muhback.png in Resources */,
 				94332A3B191AA391009D67A1 /* blank.jpg in Resources */,
+				94332A54191AA502009D67A1 /* cardtabbaritem.png in Resources */,
 				94332A3C191AA391009D67A1 /* eight.jpg in Resources */,
+				94332A57191AA502009D67A1 /* spirotabbaritem.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -354,12 +479,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94332A74191AAC0E009D67A1 /* SpirographAppDelegate.m in Sources */,
+				94332A8E191ABF18009D67A1 /* PlayingCardDeck.m in Sources */,
+				94332A73191AAC0E009D67A1 /* HarmonigraphView.m in Sources */,
+				94332A90191ABF18009D67A1 /* Test1bViewController.m in Sources */,
 				94332A4D191AA391009D67A1 /* TileGameViewController.m in Sources */,
+				94332A69191AA7BC009D67A1 /* ObjPoint.m in Sources */,
+				94332A8D191ABF18009D67A1 /* PlayingCard.m in Sources */,
 				9433295E191A9A0D009D67A1 /* main.m in Sources */,
-				94332968191A9A0D009D67A1 /* FinalFirstViewController.m in Sources */,
+				94332A88191ABF18009D67A1 /* Card.m in Sources */,
+				94332A75191AAC0E009D67A1 /* SpirographView.m in Sources */,
 				94332962191A9A0D009D67A1 /* FinalAppDelegate.m in Sources */,
-				9433296B191A9A0D009D67A1 /* FinalSecondViewController.m in Sources */,
+				94332A8A191ABF18009D67A1 /* Deck.m in Sources */,
+				94332A76191AAC0E009D67A1 /* SpirographViewController.m in Sources */,
+				94332A64191AA5BB009D67A1 /* ViewController.m in Sources */,
 				94332A4C191AA391009D67A1 /* TileGameAppDelegate.m in Sources */,
+				94332A61191AA5BB009D67A1 /* DrawView.m in Sources */,
+				94332A89191ABF18009D67A1 /* CardMatchingGame.m in Sources */,
+				94332A62191AA5BB009D67A1 /* Quiz8AppDelegate.m in Sources */,
+				94332A8F191ABF18009D67A1 /* Test1bAppDelegate.m in Sources */,
 				94332A4B191AA391009D67A1 /* PieceView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
